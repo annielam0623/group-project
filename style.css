@@ -5,7 +5,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: rgb(217, 234, 240);
-    color: #555;
+    color: rgb(85, 85, 85);
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
@@ -48,4 +48,12 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}
+
+.Annie-style {
+  color: blue
+}
+body {
+  background-color: rgb(199, 196, 255);
+
 }
